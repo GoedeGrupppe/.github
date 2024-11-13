@@ -1,8 +1,7 @@
-![Goede Logo]()
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GoedeGrupppe/.github/refs/heads/main/profile/goede-gruppe-logo-darkbg.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GoedeGrupppe/.github/refs/heads/main/profile/goede-gruppe-logo.png">
-  <img alt="Goede Group Logo." src="https://raw.githubusercontent.com/GoedeGrupppe/.github/refs/heads/main/profile/goede-gruppe-logo.png">
+  <source media="(prefers-color-scheme: dark)" srcset="goede-gruppe-logo-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="goede-gruppe-logo.png">
+  <img alt="Goede Group Logo" src="goede-gruppe-logo.png">
 </picture>
 
 ## THE GÖDE GROUP
