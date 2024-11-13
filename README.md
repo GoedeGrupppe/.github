@@ -1,0 +1,2 @@
+# .github
+THE GÖDE GROUP
